@@ -20,15 +20,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-This section focuses mainly on setting up the OSticket environment as an Admin by creating and cofiguring the settings that will be used by both agents and clients.
+This section focuses mainly on setting up the OSticket environment as an Admin by creating and configuring the settings that will be used by both agents and clients.
 
-As Supreme Admin, go to system settings and preferrences. Create and define the roles of agents Jane and John Doe. These agents will be repsonding to ticket request from clients Ken and Karen.
+As Supreme Admin, go to system settings and preferences. Create and define the roles of agents Jane and John Doe. These agents will be repsonding to ticket request from clients Ken and Karen.
 
-From the Admin panel create 3 new SLA's SEV-A, SEV-B and SEV-C.
+From the Admin panel create 3 new SLAs SEV-A, SEV-B, and SEV-C.
 
 Add 4 new help topics: Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset
 
-Create the OS ticket user profiles Ken and Karen, who will be submitting tickets for Jane and John Doe to resolve.
+Create the OS ticket user profiles for Ken and Karen, who will be submitting tickets for Jane and John Doe to resolve.
 
 
 <h2>Configuration Steps</h2>
